@@ -107,7 +107,7 @@ streamlit run app.py
 
 ## Author
 
-* Your Name
+* Kanishka Sharma
 * B.Tech CSE (AIML)
 
 ---
